@@ -28,7 +28,6 @@
   "homepage": "https://github.com/4e576rt8uh9ij9okp/markdown-build#readme",
   "dependencies": {
     "eta": "^3.4.0",
-    "marked": "^12.0.2",
-    "yargs": "^17.7.2"
+    "marked": "^12.0.2"
   }
 }
